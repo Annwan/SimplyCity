@@ -505,7 +505,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "I am Grout",
-          "desc:8": "let\u0027s make some grout for your smeltery !"
+          "desc:8": "Let\u0027s make some grout for your smeltery !"
         }
       },
       "tasks:9": {
@@ -592,7 +592,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Bucket !",
-          "desc:8": "the clay bucket broke when used with lava be warn ^^"
+          "desc:8": "Be careful, the clay bucket breaks, after being used with lava"
         }
       },
       "tasks:9": {
@@ -656,8 +656,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "melting, forging ",
-          "desc:8": "we all know this smelterie and if not tinkers add a nice book to explain everything ^^"
+          "name:8": "Melt\u0027n\u0027Forge",
+          "desc:8": "We all know that Tinker\u0027s Construct comes with a great book where everything is explained"
         }
       },
       "tasks:9": {
@@ -757,7 +757,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 1,
           "name:8": "Copper",
-          "desc:8": "copper is the next step for your progression this metal as varius utilisation but the first will be to make a better pick\n\nnote that your furnace can\u0027t melt down ores you\u0027ll need to process them before, then all your fisrt ores will be melted in the tinker\u0027s smeltery"
+          "desc:8": "Next, you\u0027ll need copper. This metal has various uses but the most important is that it lets you make a better pick\n\nNote that the minecraft furnace can\u0027t process ore, thus you'll have to process them in the smeltery until you get some better machinery"
         }
       },
       "tasks:9": {
@@ -820,8 +820,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "farming",
-          "desc:8": "the pack contain Agricraft this mean that vanilla agriculture is disable.\nWeed is enable in the pack.\nlet\u0027s make some first seed , by breaking grass you will find hemp seed and wheat, you can find riz near rivers lake or ocean your bread it from the previous crops."
+          "name:8": "Farming",
+          "desc:8": "The pack contains Agricraft. This means that vanilla planting is disabled.\nOn the other hand, there\u0027s weed.\n\nTo start you'l need some seeds. You can obtain wheat and hemp seeds by breaking grass. Rice is found near water or obtained by cross-breading previous crops."
         }
       },
       "tasks:9": {
@@ -916,8 +916,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "farming tools",
-          "desc:8": "the wooden hand rake allow you to take away the weed from your crops,\nthe clipper to replicate your seed with a chance base on the strenth of the crop, a strenth of 10 mean 100% to your clipping to work it\u0027s safer than spreeding crop.\nthe gardening trowel allow you to move your crops /!\\ unfully growth crops won\u0027t drop there seeds."
+          "name:8": "Farming tools",
+          "desc:8": "The hand rake is used to get rid of the weed from your crops\nThe clipper serves to replicate crops, with a chance to work based on said crop\u0027s strength. A strength of 10 means that the clipping has 100% chance to work. As weed is enabled, it is safer to use the clipper to fill your fields.\nThe gardening trowel is used to move crops as unfully grown crops won\u0027t drop any seed"
         }
       },
       "tasks:9": {
@@ -992,8 +992,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 1,
-          "name:8": "Copper Tool",
-          "desc:8": "let\u0027s upgrade our tools !"
+          "name:8": "Copper Tools",
+          "desc:8": "Let\u0027s upgrade our tools !"
         }
       },
       "tasks:9": {
@@ -1069,7 +1069,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Bronze !",
-          "desc:8": "Bronze is an alloy made from tin and copper"
+          "desc:8": "Bronze is an alloy made from tin and copper in a 1:3 ratio"
         }
       },
       "tasks:9": {
@@ -1167,8 +1167,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "Brass",
-          "desc:8": "aluminium brass is made from aluminium and copper it is used to make reusable cast"
+          "name:8": "Aluminium Brass",
+          "desc:8": "Aluminium brass is made from aluminium and copper. It is used to create reusable casts"
         }
       },
       "tasks:9": {
@@ -1249,7 +1249,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Better Armor",
-          "desc:8": "your lether armor is usefull for the start but let\u0027s make a better one !\ni\u0027ve an old trick to help amor to repair by themself i\u0027ll just take it 2s"
+          "desc:8": "Your leather armor was usefull for the start, but let\u0027s make a better one.\nI\u2007ve an old trick to help armor to repair by it self, It will just take me a second."
         }
       },
       "tasks:9": {
@@ -1829,8 +1829,8 @@
           "autoclaim:1": 0,
           "repeat_relative:1": 1,
           "ismain:1": 0,
-          "name:8": "Ore process",
-          "desc:8": "the smeltery is a nice ore processor but not the most efficent one let\u0027s start with a bit better one.\n\nthe crushing table allow you to crush ores into rocky chunck , then we can clean them in the sluice box and get extra ore.\n\nit also allow you to make plate by placing block or ingot.\n\nthe thermal\u0027s hammer\u0027s works with the crushing table wich take cake of mining level."
+          "name:8": "Ore Processing",
+          "desc:8": "The smeltery is nice for processing ore early game, but it is far to be the most efficient. Let\u0027s start to use a better system.\n\nThe crushing table from magneticraft allows you to crush ores into rocky chuncks. You can then clean them in a magneticraft sluice box to get extra ore that you can smelt in a furnace.\n\nThe crushing table also allows you to create plate by crushing blocks or ingots.\n\nYou\u0027ll also need a hammer from thermal foundation to take care of the mining level."
         }
       },
       "tasks:9": {
