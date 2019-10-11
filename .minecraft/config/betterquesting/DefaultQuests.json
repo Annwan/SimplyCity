@@ -26,7 +26,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 1,
           "name:8": "Start",
-          "desc:8": "Punch Tree! Craft  a pick a be a dwarf !\n\nany type of tinker\u0027s table work no need for oak ^^"
+          "desc:8": "Punch some trees, craft a pick and be a dwarf\n\nYou may craft your tables from any type of wood, doesn\u0027t need to be oak"
         }
       },
       "tasks:9": {
@@ -184,7 +184,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "First Tools",
-          "desc:8": "before doing anything we gonna needs some tools craft a mattock and a shovel and a i\u0027ll make a stone pick for you ^^ \nparts can be replaced, the mattock work as an axe, an hoe and mine dirt but doesn\u0027t work as a shovel . (yes it need a shovel part for making it but don\u0027t mind i don\u0027t understand me too)\n"
+          "desc:8": "Before we do anything, we're going to need some tools. Craft a mattock and a shovel. I\u0027ll make you a stone pickaxe.\nParts may be replaced with better ones in the future.\nThe mattock work as an axe, a hoe and a shovel. But due to the fact that it may not always work, you\u0027ld also make a proper one."
         }
       },
       "tasks:9": {
@@ -441,7 +441,7 @@
           "repeat_relative:1": 1,
           "ismain:1": 0,
           "name:8": "Clay",
-          "desc:8": "we\u0027re going to need clay for making our first cast, bucket and our smeltery"
+          "desc:8": "You\u0027re going to need clay in order to make our first cast bucket and our smeltery"
         }
       },
       "tasks:9": {
@@ -481,7 +481,7 @@
     "3:10": {
       "questID:3": 3,
       "preRequisites:11": [
-        2
+        2u
       ],
       "properties:10": {
         "betterquesting:10": {
